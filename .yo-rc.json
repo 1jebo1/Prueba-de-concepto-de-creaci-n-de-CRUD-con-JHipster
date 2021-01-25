@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.testofinal.com",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "microservice",
+    "baseName": "testeofinal",
+    "packageName": "com.testofinal.com",
+    "packageFolder": "com/testofinal/com",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "NTE0NjVhYzc2ZmRlZGJlM2M3YThmZDkyY2Q2ZmE1YjgzZTk2NDI3MTIyZTZiOTIxN2JjOGU1NTI5MzE5ZDg0ODBlNDZjZjNiMGMzMTViZDJkMjM1YjYxZGJkMTA4ZjZiMmM3NGZkZDYyNmM5NWQwOTQyMzhmMDEyYWUyZDdmMGY=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1611612982182,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "es",
+    "languages": ["es"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
